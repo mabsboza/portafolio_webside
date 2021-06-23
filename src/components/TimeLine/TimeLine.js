@@ -49,7 +49,10 @@ const Timeline = () => {
       <br />
       <SectionTitle>About me</SectionTitle>
       <SectionText>
-        Software engineer at Aragro, entrepreneur, housband and father of a wonderfull child
+        With experience in programming languages, I am interested in participating in various projects 
+        in different fields where my knowledge can be applied to give solutions to real problems, so I 've worked
+        as full stack developer for custom ERP for agriculture, human resources, importation/exportation/traceability
+        and inventory/billing/accounting systems
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
