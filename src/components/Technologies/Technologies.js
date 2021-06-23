@@ -4,9 +4,35 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
 const Technologies = () =>  (
-  <div>
-    Technologies
-  </div>
+  <Section id="tech">
+    <SectionDivider />
+    <br />
+    <SectionTitle>Technologies</SectionTitle>
+    <SectionText>
+      I 've worked  with a range of technologies in the web development world
+      from back-end to front-end
+    </SectionText>
+    <List>
+      <ListItem>
+        <DiReact size="3rem" />
+        <ListContainer>
+          <ListTitle>Front-end</ListTitle>
+          <ListParagraph>
+            React.Js
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiFirebase size="3rem" />
+        <ListContainer>
+          <ListTitle>Back-end</ListTitle>
+          <ListParagraph>
+            Ruby
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+    </List>
+  </Section>
 );
 
 export default Technologies;
