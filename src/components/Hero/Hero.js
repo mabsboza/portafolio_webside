@@ -12,9 +12,9 @@ const Hero = (props) => (
         my portafolio
       </SectionTitle>
       <SectionText>
-        Software engineer at Aragro, entrepreneur, housband and father of a wonderfull child
+        Software engineer, entrepreneur, housband and father of a wonderfull child
       </SectionText>
-      <Button>Read More</Button>
+      <Button href="#about">Read More</Button>
     </LeftSection>
   </Section>
 );
