@@ -44,6 +44,15 @@ export const projects = [
     visit: 'https://aragro.app/es',
     id: 4,
   },
+  {
+    title: 'Ksec',
+    description: "Único sistema de gestión integral de procesos asociados a personal externo, contratistas, transportistas, subcontratados y sus trabajadores.",
+    image: '/images/6.jpg',
+    tags: ['React', 'TypeScript', 'Tailwind','Redux toolkit & RTK Query'],
+    source: 'https://www.ksec.cl/',
+    visit: 'https://www.ksec.cl/',
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
