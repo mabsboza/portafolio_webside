@@ -11,8 +11,8 @@ export const projects = [
   {
     title: 'Communitary blog',
     description:"Communitary blog as Reddit, the main idea is create tech content and share knowledge.",
-    image: '/images/2.png',
-    tags: ['Ruby', 'Ruby on rails, javaScript', 'Bootstrap'],
+      image: '/images/2.png',
+      tags: ['Ruby', 'Ruby on rails, javaScript', 'Bootstrap'],
     source: 'https://github.com/mabsboza/james_code_blog',
     visit: 'https://lets-take-a-coffee.herokuapp.com/',
     id: 1,
@@ -29,8 +29,8 @@ export const projects = [
   {
     title: 'Podcast',
     description: "This is a mini project to listen podcast from audioboom api.",
-    image: '/images/4.jpg',
-    tags: ['React', 'NextJs'],
+      image: '/images/4.jpg',
+      tags: ['React', 'NextJs'],
     source: 'https://github.com/mabsboza/podcast',
     visit: 'https://nextjs-podcast-ten.vercel.app/',
     id: 3,
@@ -38,8 +38,8 @@ export const projects = [
   {
     title: 'Aragro',
     description: "Manage your farm like a company, increase your profits and invest in what really matters.",
-    image: '/images/5.jpg',
-    tags: ['React', 'Ruby', 'TypeScript', 'Graphql','Postgres'],
+      image: '/images/5.jpg',
+      tags: ['React', 'Ruby', 'TypeScript', 'Graphql','Postgres'],
     source: 'https://aragro.app/es',
     visit: 'https://aragro.app/es',
     id: 4,
@@ -47,8 +47,8 @@ export const projects = [
   {
     title: 'Ksec',
     description: "Único sistema de gestión integral de procesos asociados a personal externo, contratistas, transportistas, subcontratados y sus trabajadores.",
-    image: '/images/6.jpg',
-    tags: ['React', 'TypeScript', 'Tailwind', 'Redux toolkit & RTK Query'],
+      image: '/images/6.jpg',
+      tags: ['React', 'TypeScript', 'Tailwind', 'Redux toolkit & RTK Query'],
     source: 'https://www.ksec.cl/',
     visit: 'https://www.ksec.cl/',
     id: 5,
