@@ -68,6 +68,6 @@ export const TimeLineData = [
   { year: 2015, text: 'Worked as a full stack developer (Java/C#/asp.net)', },
   { year: 2017, text: 'Worked as a Semi senior Java developer', },
   { year: 2018, text: 'Changed job and tech stack 180° (React, Ruby)', },
-  { year: 2021, text: 'Co-founded Binarios https://www.binarios.io/', 'Started working with a Chilean company as Semi senior developer', },
+  { year: 2021, text: 'Co-founded Binarios https://www.binarios.io/, Started working with a Chilean company as Semi senior developer', },
   { year: 2022, text: 'Continuing learning and getting more experience'},
 ];
