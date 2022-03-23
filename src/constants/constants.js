@@ -53,12 +53,21 @@ export const projects = [
     visit: 'https://www.ksec.cl/',
     id: 5,
   },
+    {
+    title: 'Memory Game for fun',
+    description: "Programming Language memory game",
+      image: '/images/7.jpg',
+      tags: ['React','Css'],
+    source: 'https://github.com/mabsboza/programming-memory-game',
+    visit: 'https://programming-memory-game.vercel.app/',
+    id: 6,
+  },
 ];
 
 export const TimeLineData = [
   { year: 2015, text: 'Worked as a full stack developer (Java/C#/asp.net)', },
   { year: 2017, text: 'Worked as a Semi senior Java developer', },
-  { year: 2018, text: 'Changed tech stack and started working in a startup', },
-  { year: 2020, text: 'Co-founded Binarios', },
-  { year: 2021, text: 'working on making dreams come true ', },
+  { year: 2018, text: 'Changed job and tech stack 180° (React, Ruby)', },
+  { year: 2021, text: 'Co-founded Binarios https://www.binarios.io/', },
+  { year: 2021, text: 'Started working with a Chilean company as Semi senior developer', },
 ];
