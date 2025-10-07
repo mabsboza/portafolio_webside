@@ -53,14 +53,23 @@ export const projects = [
     visit: 'https://www.ksec.cl/',
     id: 5,
   },
-    {
-    title: 'Memory Game for fun',
-    description: "Programming Language memory game",
-      image: '/images/7.jpg',
-      tags: ['React','Css'],
-    source: 'https://github.com/mabsboza/programming-memory-game',
-    visit: 'https://programming-memory-game.vercel.app/',
+  {
+    title: 'Gestora',
+    description: "Sistema de Inventario y Facturación (POS)",
+      image: '/images/gestora.png',
+      tags: ['React', 'NextJs', 'TanStack', 'Supabase', 'Tailwind', 'Zustand'],
+    source: 'https://github.com/mabsboza/Gestora',
+    visit: 'https://gestora-3466c.web.app/login',
     id: 6,
+  },
+  {
+    title: 'Chat PDF',
+    description: "Chatea con tus documentos PDF, sube un archivo y realiza preguntas sobre su contenido.",
+      image: '/images/chatpdf.png',
+      tags: ['React', 'NextJs', 'Drizzle', 'OpenAI', 'Langchain', 'Pinecone'],
+    source: 'https://github.com/mabsboza/pdf-ai-reader',
+    visit: 'https://pdf-ai-reader-fo5a.vercel.app/',
+    id: 7,
   },
 ];
 
@@ -68,6 +77,5 @@ export const TimeLineData = [
   { year: 2015, text: 'Worked as a full stack developer (Java/C#/asp.net)', },
   { year: 2017, text: 'Worked as a Semi senior Java developer', },
   { year: 2018, text: 'Changed job and tech stack 180° (React, Ruby)', },
-  { year: 2021, text: 'Co-founded Binarios https://www.binarios.io/ and Started working with a Chilean company as Semi senior developer', },
   { year: 2022, text: 'Continuing learning and getting more experience'},
 ];
